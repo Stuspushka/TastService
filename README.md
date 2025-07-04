@@ -37,10 +37,10 @@
   PORT= 
   NODE_ENV= 
 </pre>
-3.Запустите сервисы:
+3. Запустите сервисы:
     docker-compose up --build
-4.API будет доступен по адресу: http://localhost:3000
-5.RabbitMQ Management UI: http://localhost:15672 (логин/пароль из .env)
+4. API будет доступен по адресу: http://localhost:3000
+5. RabbitMQ Management UI: http://localhost:15672 (логин/пароль из .env)
 
 ## Запуск в Kubernetes
 
